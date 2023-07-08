@@ -3,7 +3,7 @@
 Personal resume page. I'm also using this to build my CSS and HTML skills.
 
 ### Notable parts
-- Includes a print.css so the page can be printed out *with* still be styled properly.
+- Includes a print.css so the page can be printed out with more compact styling.
 
 ---
 
