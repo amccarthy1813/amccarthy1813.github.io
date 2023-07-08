@@ -1,6 +1,6 @@
 body {
     background-color: #3f8199;
-    background-image: linear-gradient(#3f8199, #19627d);
+    background-image: linear-gradient(#3f8199 10%, #19627d);
 }
 
 .textblock {
@@ -15,9 +15,15 @@ h1,h2,h3 {
     font-family: 'Montserrat', sans-serif;
 }
 
-p,ul, li {
+p, li {
     font-family: 'Open Sans', sans-serif;
     padding: 5px;
+}
+
+ul {
+    font-family: 'Open Sans', sans-serif;
+    padding: 5px;
+    list-style-type: none;
 }
 
 #schooling {
@@ -26,6 +32,29 @@ p,ul, li {
 
 #skillsul {
     list-style-type: none;
+}
+
+#hobbiesul {
+    padding-bottom: 40px;
+}
+
+#prefooter {
+    padding-bottom: 10px;
+}
+
+@media only screen and (max-width: 850px) {
+    #footul {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        float: center;
+        list-style-type: inherit;
+        padding: 5px;
+    }
+    #footli a {
+        float: left;
+        padding: none;
+    }
 }
 
 #footer {
