@@ -1,0 +1,64 @@
+body {
+    background-color: #3f8199;
+    background-image: linear-gradient(#3f8199, #19627d);
+}
+
+.textblock {
+    background-color: #ffffff;
+    opacity: .7;
+    margin: auto;
+    /*max-width: 70%;*/
+}
+
+h1,h2,h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p,ul, li {
+    font-family: 'Open Sans', sans-serif;
+    padding: 5px;
+}
+
+#schooling {
+    text-align: center;
+}
+
+#skillsul {
+    list-style-type: none;
+}
+
+#footer {
+    text-align: left;
+    opacity: 1;
+    margin: auto;
+}
+
+#footul {
+    background-color: #3f8199;
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    padding-inline-start: 0px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+#footli {
+    display: inline;
+    float: center;
+    color: black;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#footli a {
+    display: inline;
+    float: center;
+    color: black;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
