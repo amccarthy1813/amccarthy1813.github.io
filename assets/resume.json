@@ -1,0 +1,87 @@
+{
+    "name": "Aidan McCarthy",
+    "location": "Annapolis, MD",
+    "intro": "After graduating from The University of Maryland, Global Campus in 2019 with a BS in Computer Science, I spent the next four years gaining experience at SCLogic, LLC. Before that, I interned with M&T Bank, tutored young kids with coder kids, Inc, and waited tables at Carpaccio Tuscan Kitchen in Annapolis. My life and work experience have made me adaptable, dependable, and hard-working.",
+    "school": [
+        {
+            "name":"University of Maryland, Global Campus",
+            "gradYear":"2019",
+            "degree":"BS, Computer Science"
+        }
+    ],
+    "work": [
+        {
+            "businessName":"SCLogic, LLC",
+            "Location":"Annapolis, MD",
+            "jobTitle":"Integrations Specialist",
+            "startDate":"August 2021",
+            "endDate":"present",
+            "achievements": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "businessName":"SCLogic, LLC",
+            "Location":"Annapolis, MD",
+            "jobTitle":"Software Support Analyst",
+            "startDate":"September 2019",
+            "endDate":"August 2021",
+            "achievements": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "businessName":"Coder Kids, Inc",
+            "Location":"McLean, VA",
+            "jobTitle":"EP Tutor",
+            "startDate":"September 2018",
+            "endDate":"May 2019",
+            "achievements": [
+                "Worked with kids k-8 in explaining concepts as broad as Object Oriented Design and as minute as basic syntax and logic",
+                "Tutored classes in Machine Learning, AI, Scratch",
+                "Communicated heavily with other team members and leaders to ensure a valued experience for all aspiring programmers"
+            ]
+        },
+        {
+            "businessName":"M&T Bank",
+            "Location":"Wilmington, DE",
+            "jobTitle":"Technology Intern",
+            "startDate":"June 2018",
+            "endDate":"August 2018",
+            "achievements": [
+                "Worked with Enterprise Data Services in creating efficient workflows for data heavy business needs",
+                "Worked with Enterprise Architecture to map software and database dependencies for the entire enterprise",
+                "Gained some experience programming in C#, SQL Server, Javascript, and utilizing the asp.NET framework",
+                "Volunteered with coworkers and managers to deliver Meals on Wheels"
+            ]
+        },
+        {
+            "businessName":"Carpaccio Tuscan Kitchen | Wine Bar",
+            "Location":"Annapolis, MD",
+            "jobTitle":"Waiter",
+            "startDate":"June 2017",
+            "endDate":"September 2019",
+            "achievements": [
+                "Sustained focus in a fast paced and high stress environment",
+                "Clear communication with guests and kitchen staff",
+                "Maintained proper time management for optimal service"
+            ]
+        }
+    ],
+    "skills": [
+        "SQL Server",
+        "SSIS",
+        "Postman",
+        "Project Management"
+    ],
+    "hobbies": [
+        "Concerts",
+        "Hiking",
+        "Camping",
+        "Reading"
+    ]
+}
