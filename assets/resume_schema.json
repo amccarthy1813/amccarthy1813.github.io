@@ -1,0 +1,104 @@
+{
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "location": {
+        "type": "string"
+      },
+      "intro": {
+        "type": "string"
+      },
+      "school": {
+        "type": "array",
+        "items": [
+          {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "gradYear": {
+                "type": "string"
+              },
+              "degree": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "gradYear",
+              "degree"
+            ]
+          }
+        ]
+      },
+      "work": {
+        "type": "array",
+        "items": [
+          {
+            "type": "object",
+            "properties": {
+              "businessName": {
+                "type": "string"
+              },
+              "Location": {
+                "type": "string"
+              },
+              "jobTitle": {
+                "type": "string"
+              },
+              "startDate": {
+                "type": "string"
+              },
+              "endDate": {
+                "type": "string"
+              },
+              "achievements": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "string"
+                  }
+                ]
+              }
+            },
+            "required": [
+              "businessName",
+              "Location",
+              "jobTitle",
+              "startDate",
+              "endDate",
+              "achievements"
+            ]
+          }
+        ]
+      },
+      "skills": {
+        "type": "array",
+        "items": [
+          {
+            "type": "string"
+          }
+        ]
+      },
+      "hobbies": {
+        "type": "array",
+        "items": [
+          {
+            "type": "string"
+          }
+        ]
+      }
+    },
+    "required": [
+      "name",
+      "location",
+      "intro",
+      "school",
+      "work",
+      "skills",
+      "hobbies"
+    ]
+  }
