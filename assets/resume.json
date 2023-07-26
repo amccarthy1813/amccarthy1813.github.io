@@ -16,10 +16,11 @@
             "jobTitle":"Integrations Specialist",
             "startDate":"August 2021",
             "endDate":"present",
+            "jobSummary":"I work with our customers to connect their internal and other third-party applications into our software.",
             "achievements": [
-                "",
-                "",
-                ""
+                "I designed, deployed, and manage custom API endpoints in Azure Functions (written in C#) for an integration between our software and a locker vendor at Netflix",
+                "I work with on-prem and hosted customers to configure and deploy custom data imports from vendors such as WorkDay, PeopleSoft, and StarRez",
+                "I design, manage, and deploy projects leveraging our software for new or one-off workflows, including dock scheduling, asset and surplus management, and identity verification via Transact"
             ]
         },
         {
@@ -28,10 +29,11 @@
             "jobTitle":"Software Support Analyst",
             "startDate":"September 2019",
             "endDate":"August 2021",
+            "jobSummary":"I designed, managed, implemented, and supported our software for all of our hosted and on-premises customers.",
             "achievements": [
-                "",
-                "",
-                ""
+                "Worked with new and existing customers to improve workflow effectiveness and scalability",
+                "Managed or assisted in large scale projects with high profile customers including Netflix, Amazon, LnkedIn, and Cisco",
+                "Supported internal efforts to improve and standardize workflow components, currently in use by many of our existing customers"
             ]
         },
         {
@@ -40,6 +42,7 @@
             "jobTitle":"EP Tutor",
             "startDate":"September 2018",
             "endDate":"May 2019",
+            "jobSummary":"Programming tutor for kids aged 5-18 in after school programs.",
             "achievements": [
                 "Worked with kids k-8 in explaining concepts as broad as Object Oriented Design and as minute as basic syntax and logic",
                 "Tutored classes in Machine Learning, AI, Scratch",
@@ -52,6 +55,7 @@
             "jobTitle":"Technology Intern",
             "startDate":"June 2018",
             "endDate":"August 2018",
+            "jobSummary": "I assisted M&T's IT team on various ongoing projects in data management.",
             "achievements": [
                 "Worked with Enterprise Data Services in creating efficient workflows for data heavy business needs",
                 "Worked with Enterprise Architecture to map software and database dependencies for the entire enterprise",
@@ -65,6 +69,7 @@
             "jobTitle":"Waiter",
             "startDate":"June 2017",
             "endDate":"September 2019",
+            "jobSummary": "I worked as a waiter in a high end italian restaurant in downtown Annapolis, Maryland.",
             "achievements": [
                 "Sustained focus in a fast paced and high stress environment",
                 "Clear communication with guests and kitchen staff",
@@ -76,7 +81,8 @@
         "SQL Server",
         "SSIS",
         "Postman",
-        "Project Management"
+        "Project Management",
+        "Azure"
     ],
     "hobbies": [
         "Concerts",

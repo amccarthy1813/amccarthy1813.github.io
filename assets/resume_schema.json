@@ -55,6 +55,9 @@
               "endDate": {
                 "type": "string"
               },
+              "jobSummary": {
+                "type": "string"
+              },
               "achievements": {
                 "type": "array",
                 "items": [

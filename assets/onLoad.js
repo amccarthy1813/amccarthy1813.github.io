@@ -3,3 +3,5 @@ import data from './resume.json' assert { type: 'json'};
 console.log(data);
 
 
+
+
